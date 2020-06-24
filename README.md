@@ -306,7 +306,7 @@ Examples of transformers:
 
 [`{ "transform": "typescript-transform-react-jsx-source" }`](https://github.com/alexgorbatchev/typescript-transform-react-jsx-source)
 
-[`"transform": "ts-transformer-remove-named-export"}`](https://github.com/dominguezcelada/ts-transformer-remove-named-export)
+[`{ "transform": "ts-transformer-remove-named-export" }`](https://github.com/dominguezcelada/ts-transformer-remove-named-export)
 
 [`{ "transform": "ts-transformer-export-default-name" }`](https://github.com/jirutka/ts-transformer-export-default-name)
 
